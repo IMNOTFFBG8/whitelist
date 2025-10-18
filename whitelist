@@ -1,5 +1,5 @@
 return {
-    "2001pallyer",  -- Example HWID for User1
+    "3136371f-4d64-4715-a08d-ceeb863e1e2f",  -- Example HWID for User1
     "example",  -- Example for User2
     -- Add more HWIDs, one per line
 }
