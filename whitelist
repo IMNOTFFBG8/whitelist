@@ -1,0 +1,5 @@
+return {
+    "2001pallyer",  -- Example HWID for User1
+    "example",  -- Example for User2
+    -- Add more HWIDs, one per line
+}
